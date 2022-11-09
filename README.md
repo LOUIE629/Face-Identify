@@ -1,10 +1,10 @@
 # 图像与视频的人脸识别和聚类
 
-## 1.使用opencv自带的Haar cascade
+## 1.使用 OpencCV 自带的 Haar Cascade
 
 ![image](https://user-images.githubusercontent.com/74084385/200887066-2aedb266-8715-48df-86e2-587b8e7b50e0.png)
 
-## 2.使用google 的FaceNet 模型+MTCNN
+## 2.使用已训练好的基于 Google FaceNet + MTCNN 的模型
 
 ![image](https://user-images.githubusercontent.com/74084385/200886824-aae2ba97-b31d-426a-bd2e-69266dc25f0d.png)
 
