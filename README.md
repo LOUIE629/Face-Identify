@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/74084385/200886824-aae2ba97-b31d-426a-bd2e-69266dc25f0d.png)
 
-## 使用说明
+## 3.使用说明
 
 python src/align/detect_face_images.py data/test1.jpg #图片人脸识别
 
